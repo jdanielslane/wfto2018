@@ -1,4 +1,6 @@
-Introduction
+# World Fair Trade Organization Asia Data Tools
+
+## Introduction
 
 During my internship at the World Fair Trade Oraganization in Chiang Mai, Thailand I had the opportunity to work on communications tools and determine ways to better visualize data. I utilized R and Shiny software to create data visualization tools for staff who wanted to better understand the demographic information of organizational memebers.
 
