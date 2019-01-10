@@ -1,0 +1,13 @@
+name: barsdiffcolor
+title: barsdiffcolor
+username:
+account: 6milesnlife
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 397496
+bundleId: 1525923
+url: https://6milesnlife.shinyapps.io/barsdiffcolor/
+when: 1533798968.55391
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history|map.thailand.xlsx|www/.DS_Store|www/home (2).png|www/man-walking-directions-button (1).png

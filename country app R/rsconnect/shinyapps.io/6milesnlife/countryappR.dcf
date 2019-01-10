@@ -1,0 +1,13 @@
+name: countryappR
+title: countryappR
+username:
+account: 6milesnlife
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 364313
+bundleId: 1445442
+url: https://6milesnlife.shinyapps.io/countryappR/
+when: 1529823559.56223
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/6.16.2018 Practice.RData|data/logo-wfto-asia.png
