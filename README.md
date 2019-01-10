@@ -6,4 +6,4 @@ I hope to produce more data visualizations that are more focused on social media
 
 The two visualizations produced can be found [here](https://6milesnlife.shinyapps.io/barsdiffcolor/) and [here](https://6milesnlife.shinyapps.io/countryappR/). 
 
-For more informationa on WFTO Asia and their work: (https://wfto-asia.com/)
+For more informationa on WFTO Asia and their work: https://wfto-asia.com/
